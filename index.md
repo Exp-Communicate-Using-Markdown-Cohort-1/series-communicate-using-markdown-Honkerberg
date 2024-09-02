@@ -6,3 +6,7 @@
 ```python
 print("Hello, World!")
 ```
+
+- [ ] Pořádně to napiš
+- [ ] Podívej se na svoje repozitáře
+- [ ] Nebuď labuť 
